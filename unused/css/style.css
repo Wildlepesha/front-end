@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cont {
+  width: 80%;
+  background: #4f4f4f;
+  display: flex;
+  border: 1px, solid black;
+  color: white;
+}

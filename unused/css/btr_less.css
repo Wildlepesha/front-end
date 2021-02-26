@@ -1,0 +1,26 @@
+.bg {
+  background: grey;
+}
+
+.bd {
+  border: 1px solid #4f4f4f;
+}
+
+.txt {
+  width: 50px
+}
+
+.block-image {
+  width: 150px;
+}
+
+.main-form {
+  width: 500px;
+  margin: 20px;
+}
+
+.block {
+  width: 200px;
+  height: 200px;
+  background: #fff
+}
