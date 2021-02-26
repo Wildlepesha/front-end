@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fira+Sans:wght@400;700&display=swap');
+
+body {
+  background: #f6f6f6;
+  margin: 0;
+  padding: 0;
+}
+
+.navig {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 250px;
+  margin-top: 33px;
+  margin-right: 250px;
+  font-family: 'Fira Sans';
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
+  border-bottom: 2px solid #828282;
+  padding-bottom: 87px;
+}
+
+.Home {color: black}
+
+span {color: #828282}
+
+.head_content {
+  display: flex;
+  margin-left: 250px;
+  /* margin-right: 246.68px; */
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.name {
+  margin-top: 36.69px;
+  font-family: 'Fira Sans';
+  font-weight: 700;
+  font-size: 47.3392px;
+  line-height: 59px;
+  width: 123px;
+}
+
+.about {
+  margin-top: 94.77px;
+  width: 155.65px;
+  font-family: 'Fira Sans';
+  font-size: 18px;
+}
+
+.lang {
+  font-family: 'Fira Sans';
+  font-weight: 700;
+  font-size: 16px;
+  margin-right: 226.68px;
+  margin-top: 94.94px;
+  width: 68px;
+  height: 17.05px;
+  transform: rotate(-90deg);
+  display: flex;
+}
+
+.ru {color: #828282}
+.rod {color: black}
+
+.img {
+  margin-top: 33.7px;
+  margin-left: 250px;
+  margin-bottom: 101px;
+  width: 943.61px;
+  height: 387px;
+
+  background: url('../img/Group 2.1.png');
+}
+
+.about_me {
+  margin: 0;
+  padding-top: 101px;
+  background: #E5E5E5;
+  text-align: center;
+}
+
+.me {
+  padding-bottom: 17.69;
+  font-family: 'Fira Sans';
+  font-weight: 700;
+  font-size: 34px;
+}
+
+.text_about {
+  margin-left: 480px;
+  padding-bottom: 107px;
+  font-family: 'Fira Sans';
+  font-size: 18px;
+  width: 485.34px;
+  text-align: center;
+}
